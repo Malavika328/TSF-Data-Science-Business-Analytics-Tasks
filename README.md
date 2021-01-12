@@ -5,10 +5,10 @@
 ## Problem Statement: What will be the predicted score if student studies for 9.25 hrs/day
 >I am a block quote
 
-`int p=1;
+'int p=1;
 
-```
+'''
 print{
-`
-`
+'
+'
 }
